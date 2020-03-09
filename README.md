@@ -1,4 +1,4 @@
-# Emotion-labelling-dataset
+# Social Media Emotion Data Set
 
 Collect tweets file is a piece of code to collect data from twitter using twitter API.
 Ambiguity is a piece of code to handle the ambiguity in classifying tweets into six different classes. 
